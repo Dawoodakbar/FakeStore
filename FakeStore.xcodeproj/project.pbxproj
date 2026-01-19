@@ -16,6 +16,11 @@
 			path = FakeStore;
 			sourceTree = "<group>";
 		};
+		047AE10D2F1D19BA00E07E6C /* Models */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Models;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -34,6 +39,7 @@
 			children = (
 				047AE0FF2F1D17A200E07E6C /* FakeStore */,
 				047AE0FE2F1D17A200E07E6C /* Products */,
+				047AE10D2F1D19BA00E07E6C /* Models */,
 			);
 			sourceTree = "<group>";
 		};
@@ -62,6 +68,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				047AE0FF2F1D17A200E07E6C /* FakeStore */,
+				047AE10D2F1D19BA00E07E6C /* Models */,
 			);
 			name = FakeStore;
 			packageProductDependencies = (
