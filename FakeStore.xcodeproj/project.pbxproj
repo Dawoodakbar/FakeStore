@@ -21,6 +21,11 @@
 			path = Models;
 			sourceTree = "<group>";
 		};
+		047AE29B2F1E3E0400E07E6C /* Network Layer */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Network Layer";
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +42,7 @@
 		047AE0F42F1D17A200E07E6C = {
 			isa = PBXGroup;
 			children = (
+				047AE29B2F1E3E0400E07E6C /* Network Layer */,
 				047AE0FF2F1D17A200E07E6C /* FakeStore */,
 				047AE0FE2F1D17A200E07E6C /* Products */,
 				047AE10D2F1D19BA00E07E6C /* Models */,
@@ -69,6 +75,7 @@
 			fileSystemSynchronizedGroups = (
 				047AE0FF2F1D17A200E07E6C /* FakeStore */,
 				047AE10D2F1D19BA00E07E6C /* Models */,
+				047AE29B2F1E3E0400E07E6C /* Network Layer */,
 			);
 			name = FakeStore;
 			packageProductDependencies = (
